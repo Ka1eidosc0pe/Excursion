@@ -1,9 +1,10 @@
 html {
     background-color: black;
+    font-family: verdana;
 }
 
 h1 {
-    font-family: Verdana;
+    font-family: verdana;
     font-weight: normal;
     font-size: 50px;
     color: white;
@@ -14,4 +15,32 @@ h1 {
     color: aquamarine;
     font-size: 16px;
     text-align: center;
+    font-weight: normal;
 }
+
+.vid {
+    text-align: center;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: gray;
+    font-size: 21px;
+    text-align: center;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+p {
+    text-align: center;
+}
+
